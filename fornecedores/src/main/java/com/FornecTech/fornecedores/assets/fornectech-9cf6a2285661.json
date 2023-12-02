@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "fornectech",
+  "private_key_id": "9cf6a22856616c035b8d70c87a68c4b4f9e50337",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCvOpF7tWPvHjQp\nPAnoVSARiJUEDqsNv2NBZJP6ChF31MsselDHM1qOGFfu9qbIhZV7vu/l3NznG/MF\nZq7rdb/zTOVsTYb4bSm+Y0MyRVLhYoYQDvxj+h8+1Jmcs0v/wzhdRMVktKdT9Kjf\n7nBPdqCCnNGtE12poc9Wk40bw80DawOiEz2IGhVnBSxD7Nud9lPRd8ob+2r+2Jo7\npLdkC6cMRy5Eqq6/QRhH1aCA4gJZ6jyRbg0BhsmgjbXBKEMKiMshXBEhBNw++1c7\n7Gqiq5Xz5ztwC2HKJjYcfwhjS7tUKa3BLm9tr2ykwhDuDI9old8877tjBhTI03Ue\n0LAtNdVlAgMBAAECggEADvAsROKS0Wi+w6ElqxPOtw/wvDbP6E0flgyP/Ons0U1n\nwLPwvPqoxqJWpL2MPF3+/1yosOziPCWK0zQMx2/zXDd6+3+kePs9asilityUEzjF\n+wp8A73n+gA/1DcIzJYE8RaSyWIJPcQGvYhjNLMFPf1Gdr3G51YvCc9sYSiRCrBp\nsoR6u21WuypnPz798HnxSj6ICNaRw2+48khVOT2sOHRtqeVxvCLWwP9EfY0yKLwq\nCsNvO4DsI3yTSCivjTvLTAdcxYPfY2ZUbr/SUsij94XUVc02PuYiFjT5HhoHSol2\nPFFjkR8G9ptyCL2MOxmoURHAUjA7jUosQP/bU13OAQKBgQDWZqdOdK/2r+9d1Oeb\n5OUZ4cdZyoVqpvLceuWo/5hVO9p7iV1BrX674px5u6xzqJ9jthCUjNfZuv4cLUvF\nle9gJPY6mwp4SOmid2/rkrzRawrOPXOKiC8Jwv68Gt25V4+dxFRt3+WzKZqT0Ejc\n56WuFpyRIw9u/bDs0znr9TxY5QKBgQDROjjg1HQlv5oGoDiPPwGocng0OvssptL7\nqAlDMoK9cOeVb/flUm6DoBoQDTU0PujBWq3LWSNWhCjJ+fOBWppm0wmQeBxZFtgG\njcPKOefzrTTGeSHCREj2uU81jW3OdVm9nLyvpiMpnvefYbCXZNr1OpMRJJVKZzZw\ngab42zpCgQKBgHzchb0sObop1fZIYqYolMAQ/D8vsaleFvwOWqekSvwAgooFgpkY\nSEF1hPlkMdedsU2pn1hT+fUkcI7KVmF4o1LT085nsp5AoEfs1PJVn786Xq2jniFk\nlDhUJnQ4FT62Xr5bs2vVw/kmVo6U84orIhMTuhTQXVGfTyVtEkN3q7B9AoGAfdHo\ncHPyoNy3EHL7cFEwew7TcH1jnLd5uzKS12EhtDCYY4pg5fwLT4ZRBgQbUZ7fM5+H\nUfj5wkZZjRSNteU5YspYPxOr4HtXT6Gi8xKdhTFMwmoHvh54Tj6j/o1dUkHJxLfj\n1DExhg791E/X9UMGVWBzHmUEjijBWSjus0qKn4ECgYAQVmFLTctQo85PeBQsk8pU\ndlu+SQqhkitcE0T7o39h0ax6x9oF/O7nipmgSEeVQ8Ho+hcXELYOkVQ/iYiNn5bM\nYuBBhjib1eZducZ2nuyDHGqqk92H8JDxKz+BCkyIBjANZCV5V4he367Q9BKjXh7o\nJLAkHGvqDnhO84xsWfKO4w==\n-----END PRIVATE KEY-----\n",
+  "client_email": "googledriveuploaderservice@fornectech.iam.gserviceaccount.com",
+  "client_id": "115741739391110574719",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/googledriveuploaderservice%40fornectech.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
