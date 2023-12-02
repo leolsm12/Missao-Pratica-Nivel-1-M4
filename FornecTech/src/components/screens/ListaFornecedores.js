@@ -92,6 +92,7 @@ const ListaFornecedores = () => {
           notFoundText="Data not found"
           valueToBeSaved="value"
           containerStyle={styles.selectList}
+          containerDataStyle={styles.selectList}
         />
       </View>
     );
@@ -125,10 +126,6 @@ const ListaFornecedores = () => {
     </View>
   );
 
-
- if (categoriaSelecionada === "Todas as categorias") {
-    categoriaSelecionada = '';
- }
 
  return (
     <View style={styles.container}>

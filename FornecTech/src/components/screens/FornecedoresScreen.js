@@ -49,6 +49,7 @@ const CadastroFornecedor = ({ navigation }) => {
         placeholder="Nome:"
         value={nome}
         onChangeText={(text) => setNome(text)}
+        placeholderTextColor="#fff"
       />
 
       <TextInput
@@ -56,6 +57,7 @@ const CadastroFornecedor = ({ navigation }) => {
         placeholder="Endereço:"
         value={endereco}
         onChangeText={(text) => setEndereco(text)}
+        placeholderTextColor="#fff"
       />
 
       <TextInputMask
@@ -70,6 +72,7 @@ const CadastroFornecedor = ({ navigation }) => {
         value={contato}
         onChangeText={(text) => setContato(text)}
         keyboardType="phone-pad"
+        placeholderTextColor="#fff"
       />
 
       <TextInput
@@ -77,6 +80,7 @@ const CadastroFornecedor = ({ navigation }) => {
         placeholder="Categoria:"
         value={categoria_prod}
         onChangeText={(text) => setCategorias(text.trim())}
+        placeholderTextColor="#fff"
       />
 
       <Button title="Cadastrar" onPress={handleCadastro} />
@@ -91,7 +95,7 @@ const styles = StyleSheet.create({
     flex: 1,
     justifyContent: 'center',
     padding: 16,
-    backgroundColor: '#f8f8f8',
+    backgroundColor: 'rgba(52, 52, 52, 0.8)',
   },
   label: {
     fontSize: 18,
@@ -101,8 +105,9 @@ const styles = StyleSheet.create({
     letterSpacing: 0.5, // Ajusta o espaçamento entre as letras
   },
   input: {
+    color: '#fff',
     height: 40,
-    borderColor: '#ccc',
+    borderColor: '#fff',
     borderWidth: 0,
     borderBottomWidth: 1,
     marginBottom: 16,
